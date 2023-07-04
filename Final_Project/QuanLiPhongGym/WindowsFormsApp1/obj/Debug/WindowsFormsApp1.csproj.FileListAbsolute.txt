@@ -1,0 +1,738 @@
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_KhachHang.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\Form-DangKi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Code\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Code\CNPM\Tmp\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thongke.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\PJ_New\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Khachhang.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_NhanVien.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\Chí Long\CNPM-main\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\VS\VSCode\VScode\CNPM\N4-ThucHanh\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+C:\Users\Admin\Desktop\Gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\OneDrive\Documents\GitHub\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\Desktop\gym\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\11 5 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\Project_Final\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\15 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ProgressBar.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ProgressBar.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\gym2\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ProgressBar.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Workplace\TDTU\Công nghệ phần mềm - Võ Hoàng Quân\16 05 2023\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ProgressBar.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.en.resources
+E:\TH_CNPM\Project_Final_3\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ProgressBar.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.en.resources
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\gym4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.2.xml
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKyDichVu.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDonLe.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_InHoaDonLe.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ProgressBar.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyDichVu.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyKH.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangKy.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DangNhap.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_phong.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_QuanLyNhanVien.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_TapThu.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Thietbi.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_ThongKe.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.en.resources
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\TH_CNPM\Project_Final_4\CNPM\QuanLiPhongGym\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
